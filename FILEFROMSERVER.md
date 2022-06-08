@@ -1,1 +1,1 @@
-thi is file created in server
+the is file created in server
